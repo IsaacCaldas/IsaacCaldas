@@ -4,7 +4,10 @@
 > You can look at a mistake as a blunder to be forgotten or as a result that points in a new direction.
 ~ Steve Jobs 
 </div>
+<br />
 
+###### I'm young and passionate about programming with :one::eight: years.</p>
+###### I'm currently doing Computer Science 💻 at university and studying hard to learn everything that technology can provide us.</p>
 
 #### You can find me here
 <div>
